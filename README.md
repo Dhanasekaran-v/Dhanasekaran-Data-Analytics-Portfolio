@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio
+# 📊 Data Analytics And Data Science Portfolio
 
 This repository contains my Data Analytics and Data Science projects completed during my course period.
 
