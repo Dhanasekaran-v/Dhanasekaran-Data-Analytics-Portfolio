@@ -1,0 +1,8 @@
+education_level,avg_salary,min_salary,max_salary
+"Some college",858649.74,5100,102000000
+Unknown,242336,30,2600000
+"Professional degree (MD, JD, etc.)",140571.86,31000,550000
+PhD,112984.32,12000,550000
+"Master's degree",112280.03,0,8100000
+"College degree",95592.3,0,5600000
+"High School",80423.54,102,350000

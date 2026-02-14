@@ -1,0 +1,1001 @@
+City,Industry,avg_salary
+" Byron Bay","Education (Primary/Secondary)",78000
+" Chicago","Accounting, Banking & Finance",130000
+" Ventura ",Law,48800
+Aberdeen,"Education (Primary/Secondary)",33000
+"Aberdeen Proving Ground","Government And Public Administration",75176
+Abidjan,Energy,67500
+Adairsville,"Engineering Or Manufacturing",45760
+Adelaide,"Engineering Or Manufacturing",103000
+Adelaide,"Education (Higher Education)",101000
+Adelaide,"Education (Primary/Secondary)",61577
+Adelaide,"Agriculture Or Forestry",50768
+"Adelaide ",Nonprofits,68816
+"Adelaide, South AUnited Statestralia",Nonprofits,70000
+Agawam,Nonprofits,95000
+"Ainsworth ","Health Care",33800
+Akron,"Education (Higher Education)",35000
+Albany,"Pharma & Biotech",125760
+Albany,"Transport Or Logistics",80700
+Albany,"Government And Public Administration",78110
+Albany,"Computing Or Tech",68000
+Albany,"Learning And Development",62000
+Albany,"Utilities & Telecommunications",60900
+Albany,"Education (Higher Education)",57500
+Albany,"Education (Primary/Secondary)",35000
+Albuquerque,"Health Care",68000
+Alexandria,"Marketing, Advertising & Pr",97500
+Alexandria,"Bunited Statesiness Or Consulting",92000
+Alexandria,"Government And Public Administration",87100
+Alexandria,Nonprofits,68250
+"Alexandria ","Accounting, Banking & Finance",45000
+"Alexandria, VA","Marketing, Advertising & Pr",87000
+"Aliso Viejo","Health Care",108000
+"Aliso Viejo","Veterinary Medicine",34000
+"Allendale, MI","Education (Higher Education)",50000
+Allentown,"Engineering Or Manufacturing",86000
+"Alpharetta, GA","Health Care",110000
+Altadena,"Construction, Hvac ",62400
+Alton,"Property Or Construction",21840
+"Alton ","Social Work",39000
+Amesbury,Library,65000
+"Amherst, MA","Agriculture Or Forestry",56000
+Amityville,"Engineering Or Manufacturing",37440
+Amsterdam,"Accounting, Banking & Finance",95000
+Amsterdam,"Renewable Fuels",72000
+Amsterdam,Biotech,61500
+"Amsterdam ",Fmcg,75000
+Anacortes,"Accounting, Banking & Finance",55000
+"Anaheim-Santa Ana-Irvine metro region",Insurance,54080
+Anderson,"Education (Higher Education)",51000
+"Ann Arbor","Recruitment Or Hr",89000
+"Ann Arbor","Health Care",66400
+"Ann Arbor","Education (Higher Education)",49000
+"Ann Arbor","Engineering Or Manufacturing",47000
+"Ann Arbor","Computing Or Tech",41600
+"Ann Arbor ","Education (Primary/Secondary)",14000
+Annapolis,"Education (Higher Education)",114666.67
+Annapolis,Law,89000
+Annapolis,"Government And Public Administration",56183
+"Annapolis ","Government And Public Administration",60500
+"Annapolis Junction","Government And Public Administration",113000
+Annecy,Translation,22800
+"Antrim ","Health Care",18200
+Appleton,"Education (Higher Education)",56000
+"Appleton ","Social Work",52400
+Arcadia,"Accounting, Banking & Finance",88000
+Arlington,"Bunited Statesiness Or Consulting",95000
+Arlington,"Government And Public Administration",94981
+Arlington,"Healthcare Technology ",83900
+Arlington,Nonprofits,68166.67
+Arlington,"Computing Or Tech",65000
+"Arlington ","Government And Public Administration",88000
+"Arlington Heights","Public Safety ",82550
+"Arroyo Grande","Marketing, Advertising & Pr",50000
+Arvada,Biotechnology,82000
+"Asbury Park","Media & Digital",73000
+Ashburn,"Government And Public Administration",86500
+"Ashburn ","Computing Or Tech",120000
+Asheville,Retail,26000
+"Asheville ","Property Or Construction",95000
+"Asheville ","Computing Or Tech",76333.33
+Ashland,Nonprofits,33050
+"at home","Education (Higher Education)",67400
+Athol,Nonprofits,42500
+Atlanta,"Bunited Statesiness Or Consulting",150000
+Atlanta,"Government And Public Administration",118000
+Atlanta,Insurance,103333.33
+Atlanta,"Computing Or Tech",101150
+Atlanta,"Health Care",75666.67
+Atlanta,"Education (Primary/Secondary)",73500
+Atlanta,"Marketing, Advertising & Pr",71000
+Atlanta,"Accounting, Banking & Finance",65280
+Atlanta,"Recruitment Or Hr",64000
+Atlanta,Nonprofits,56220
+Atlanta,"Education (Higher Education)",53500
+Atlanta,"Art & Design",46000
+Atlanta,"Social Work",40000
+"Atlanta ","Computing Or Tech",105000
+"Atlanta metro area","Government And Public Administration",69500
+"Atlanta metro area","Education (Higher Education)",44000
+"Atlantic City","Public Libraries",47700
+Auckland,"Computing Or Tech",145000
+Auckland,"Accounting, Banking & Finance",114000
+Auckland,"Transport Or Logisraeltics",92000
+Auckland,"Government And Public Administration",77000
+Auckland,"Utilities & Telecommunications",75000
+"AugUnited Statesta","Computing Or Tech",51000
+"AUnited Statestin",Law,242613.33
+"AUnited Statestin","Computing Or Tech",121659.56
+"AUnited Statestin","Transport Or Logistics",115000
+"AUnited Statestin","Health Care",98700
+"AUnited Statestin","Video Games",95000
+"AUnited Statestin","Marketing, Advertising & Pr",87500
+"AUnited Statestin","Bunited Statesiness Or Consulting",84000
+"AUnited Statestin","Engineering Or Manufacturing",83250
+"AUnited Statestin",Insurance,74066.67
+"AUnited Statestin","Government And Public Administration",63266.67
+"AUnited Statestin","Accounting, Banking & Finance",56500
+"AUnited Statestin",Nonprofits,55000
+"AUnited Statestin","Education (Primary/Secondary)",53000
+"AUnited Statestin","Education (Higher Education)",47000
+"AUnited Statestin","Hospitality & Events",35360
+"AUnited Statestin","Interior Landscaping ",33000
+"AUnited Statestin ","Computing Or Tech",125000
+"AUnited Statestin metro area","Accounting, Banking & Finance",87000
+"AUnited Statestralia not Sydney","Computing Or Tech",70000
+Aurora,"Health Care",69000
+Aurora,Nonprofits,57000
+Aurora,"Law Enforcement & Security",41000
+Baltimore,Law,154666.67
+Baltimore,"Health Care",114750
+Baltimore,"Computing Or Tech",95000
+Baltimore,Insurance,86670
+Baltimore,"Education (Primary/Secondary)",76000
+Baltimore,Nonprofits,72000
+Baltimore,"Marketing, Advertising & Pr",67000
+Baltimore,"Education (Higher Education)",65913
+Baltimore,"Recruitment Or Hr",59000
+Baltimore,"Property Or Construction",56000
+"Baltimore ","Bunited Statesiness Or Consulting",101000
+"Baltimore suburbs","Accounting, Banking & Finance",56000
+"Baltimore, MD","Computing Or Tech",100000
+Bangalore,"Bunited Statesiness Or Consulting",6600
+Bangor,"Education (Higher Education)",58500
+"Bangor ","Education (Primary/Secondary)",22000
+Barcelona,"Health Care",55000
+Barcelona,"Computing Or Tech",38000
+Barcelona,"Media & Digital",32000
+barcelona,"Accounting, Banking & Finance",30
+Barnstable,"Government And Public Administration",72000
+Barrington,Nonprofits,40000
+barxelona,"Utilities & Telecommunications",57000
+Bath,"Defense Contractor",69000
+"Baton Rouge","Accounting, Banking & Finance",71500
+"Bay Area","Computing Or Tech",221000
+"Bay Area",Entertainment,140000
+"Bay Area","Transport Or Logistics",80000
+"Bay Area / Palo Alto","Education (Higher Education)",85000
+Beachwood,"Education (Higher Education)",50000
+Beacon,"Marketing, Advertising & Pr",60000
+Beaverton,"Computing Or Tech",69000
+"Beaverton ","Data Breach",56410
+Belfast,Nonprofits,78000
+Bellevue,"Computing Or Tech",149000
+Bellevue,"Bunited Statesiness Or Consulting",122000
+Bellevue,Nonprofits,65000
+Bellingham,"Health Care",49000
+Bellingham,"Hospitality & Events",31200
+"Bemidji ","Engineering Or Manufacturing",85000
+Bentonville,Retail,145000
+Berkeley,Nonprofits,88500
+Berkeley,"Education (Higher Education)",71866.67
+Berlin,"Computing Or Tech",68000
+Berlin,"Bunited Statesiness Or Consulting",48000
+Berlin,Retail,70
+Berryville,"Health Care",38480
+Bethesda,"Government And Public Administration",94845
+"Bethesda MD","Government And Public Administration",76000
+"Beverly Hills",Retail,44200
+Billings,"Marketing, Advertising & Pr",45000
+Birmingham,"Education (Higher Education)",30023
+Birmingham,Insurance,26700
+Birmingham,"Government And Public Administration",26350
+"Birmingham ","Stem Medical Research",40000
+"Birmingham, UK","Accounting, Banking & Finance",61000
+Bloomington,Insurance,98000
+Bloomington,"Government And Public Administration",91000
+Bloomington,"Educational Technology - Hybrid Between Book Publishing And Technology Really",67000
+Bloomington,"Computing Or Tech",60000
+Bluffton,"Education (Higher Education)",37926
+"Boca Raton","Accounting, Banking & Finance",96642
+"Boca Raton","Wealth Advisor Research",50000
+Bogota,"Utilities & Telecommunications",102000000
+Boise,"Health Care",71488
+Boise,"Education (Higher Education)",66050
+Boise,"Computing Or Tech",65000
+Boise,Nonprofits,54912.5
+Boise,"Government And Public Administration",54000
+Boise,"Marketing, Advertising & Pr",50000
+Boise,"Media & Digital",44000
+Boise,"Engineering Or Manufacturing",40000
+"Bolton ","Engineering Or Manufacturing",30000
+Bonn,"Computing Or Tech",68000
+Boston,"Pharmaceutical Development",230000
+Boston,"Computing Or Tech",200899.32
+Boston,Pharma/Biotech,175000
+Boston,"Bunited Statesiness Or Consulting",147200
+Boston,"Agriculture Or Forestry",138800
+Boston,Finance,130000
+Boston,Law,113300
+Boston,"Government And Public Administration",108800
+Boston,"Accounting, Banking & Finance",98950
+Boston,"Recruitment Or Hr",87685.71
+Boston,Pharma,87000
+Boston,"Media & Digital",86000
+Boston,"Engineering Or Manufacturing",85000
+Boston,"Marketing, Advertising & Pr",85000
+Boston,Nonprofits,80558.82
+Boston,"Art & Design",80000
+Boston,"Health Care",77050.62
+Boston,"Education (Higher Education)",76448.28
+Boston,"Utilities & Telecommunications",72633
+Boston,"Property Or Construction",72000
+Boston,"Public Health",71000
+Boston,"Cultural Heritage",60500
+Boston,"Education (Primary/Secondary)",58000
+Boston,"Medical Research",43000
+Boston,Insurance,41600
+Boston,Retail,4100
+"Boston ","Bunited Statesiness Or Consulting",120000
+"Boston ","Health Care",85000
+"Boston ","Social Work",58500
+"Boston area","Marketing, Advertising & Pr",115000
+"Boston, MA",Law,85000
+"Boston, MA",Nonprofits,68000
+Boston/Cambridge,"Computing Or Tech",62400
+Boulder,"Computing Or Tech",146333.33
+Boulder,Nonprofits,71000
+Bournemouth,"Education (Higher Education)",26500
+"Bournemouth ","Accounting, Banking & Finance",26500
+Bozeman,"Accounting, Banking & Finance",100000
+Bozeman,"Government And Public Administration",46000
+Bozeman,Nonprofits,35360
+"Bozeman, MT","Marketing, Advertising & Pr",185000
+Brea,"Transport Or Logistics",67000
+"Brentwood ","Accounting, Banking & Finance",78000
+Brest,"Computing Or Tech",20400
+"Brigham City","Engineering Or Manufacturing",74000
+Brighton,Digital,42860
+Brighton,"Computing Or Tech",34000
+Brighton,"Marketing, Advertising & Pr",28
+Brisbane,"Agriculture Or Forestry",90000
+Brisbane,"Accounting, Banking & Finance",76333.33
+Brisbane,"Education (Higher Education)",75000
+Brisbane,"Computing Or Tech",58500
+Brisbane,"Marketing, Advertising & Pr",52000
+"Brisbane, Queensland",Environment,730000
+Bristol,"Marketing, Advertising & Pr",200000
+Bristol,"Government And Public Administration",48195
+Bristol,"Education (Primary/Secondary)",38000
+Bristol,Nonprofits,30950
+"Bristol ","Accounting, Banking & Finance",24000
+Brockville,Immigration,43000
+Bronx,Law,89470
+Brooklyn,"Computing Or Tech",132500
+Brooklyn,"Art & Design",83150
+Brooklyn,"Marketing, Advertising & Pr",65000
+Brooklyn,"Social Work",61000
+Broomfield,"Computing Or Tech",80500
+Brossard,"Computing Or Tech",55000
+"BrUnited Statessels",Insurance,55680
+"BrUnited Statessels","Bunited Statesiness Or Consulting",40000
+"BrUnited Statessels","Computing Or Tech",39000
+"BrUnited Statessels ",Unknown,32400
+Buckhannon,"Education (Primary/Secondary)",39820
+Buffalo,"Accounting, Banking & Finance",64000
+Buffalo,"Marketing, Advertising & Pr",48000
+Buffalo,Nonprofits,42000
+Buffalo,"Engineering Or Manufacturing",40000
+Buffalo,"Beauty Manufacturing & Education ",35360
+"Buffalo ","Accounting, Banking & Finance",81000
+Burgenland,"Computing Or Tech",30000
+Burlington,"Computing Or Tech",121500
+Burlington,"Social Work",95000
+Burlington,"Education (Higher Education)",33000
+Burlington,Retail,31000
+"Burnaby BC","Utilities & Telecommunications",63000
+Calgary,"Utilities & Telecommunications",105000
+Calgary,"Health Care",70000
+Calgary,"Engineering Or Manufacturing",63000
+Calgary,Nonprofits,54800
+Calgary,"Social Work",47000
+"Calgary, Alberta","Education (Higher Education)",42684
+"Camarillo, CA ",Nonprofits,37000
+Cambridge,"Health Care",237000
+Cambridge,Biopharma,175000
+Cambridge,Biotech/Pharma,155000
+Cambridge,"Computing Or Tech",128584.62
+Cambridge,"Recruitment Or Hr",115000
+Cambridge,"Government And Public Administration",103000
+Cambridge,"Education (Higher Education)",76166
+Cambridge,"Accounting, Banking & Finance",72000
+Cambridge,"Research ",54000
+Cambridge,"Media & Digital",49803.5
+"Cambridge ","Health Care",118000
+"Cambridge ",Retail,20000
+"Cambridge, MA","Education (Higher Education)",54500
+"Cambridge, ON","Health Care",74500
+"Can't say without losing my anonymity","Education (Higher Education)",101250
+"Can't share","Education (Higher Education)",50000
+"Canada ","Property Or Construction",70000
+Canberra,"Bunited Statesiness Or Consulting",125000
+Canberra,Retail,60000
+Canberra,"Art & Design",57000
+"Canbridge, UK",Pharmaceuticals,38800
+Canton,"Computing Or Tech",60000
+Canton,"Accounting, Banking & Finance",40000
+"Cape Town","Media & Digital",543000
+Cardiff,"Engineering Or Manufacturing",38500
+Cardiff,"Hospitality & Events",18553
+Carmel,"Hospitality & Events",59000
+Carrollton,"Engineering Or Manufacturing",51000
+"Carson City","Government And Public Administration",79719
+"Cary, NC","Health Care",38000
+castellon,Unknown,50
+"Cedar Rapids",Retail,38000
+Centennial,"Utilities & Telecommunications",62000
+Centennial,"Property Or Construction",60000
+"Centerville ","Accounting, Banking & Finance",38000
+"CENTRAL CITY ","Accounting, Banking & Finance",37900
+"Central MD","Accounting, Banking & Finance",50000
+Champaign,"Health Care",71000
+Champaign,Insurance,48500
+"Champaign Urbana","Education (Higher Education)",55000
+Chandler,"Computing Or Tech",52000
+"Chapel Hill","Education (Higher Education)",115000
+"Chapel Hill","Media & Digital",72800
+"Chapel Hill","Bunited Statesiness Or Consulting",72500
+Charleston,"Government And Public Administration",46000
+Charleston,"Education (Primary/Secondary)",42000
+Charlotte,"Media & Digital",135000
+Charlotte,"Health Care",102480
+Charlotte,"Property Or Construction",95000
+Charlotte,"Recruitment Or Hr",90000
+charlotte,"Accounting, Banking & Finance",81000
+Charlotte,"Computing Or Tech",80500
+Charlotte,"Engineering Or Manufacturing",78500
+Charlotte,"Commercial Real Estate",58500
+Charlotte,"Marketing, Advertising & Pr",57250
+Charlotte,"Utilities & Telecommunications",50000
+Charlotte,"Art & Design",32000
+Charlottesville,"Computing Or Tech",117000
+Charlottesville,"Accounting, Banking & Finance",37000
+Charlottetown,"Hospitality & Events",40000
+Chattanooga,Insurance,40000
+Chelsea,Nonprofits,49939
+Cheltenham,"Computing Or Tech",40000
+Chemnitz,Journalism,30000
+"Cherry Hill","Sales ",76000
+"Cherry Hill","Recruitment Or Hr",70000
+"Cherry Hill",Libraries,51300
+"Cherry Hill","Education (Primary/Secondary)",44800
+Chesterfield,Retail,75660
+Chesterfield,"Education (Primary/Secondary)",32448
+"Chestnut Hill","Education (Higher Education)",64000
+Chicago,Law,255000
+Chicago,"Computing Or Tech",120818.18
+Chicago,"Bunited Statesiness Or Consulting",112875
+Chicago,Compliance,112000
+Chicago,Insurance,110356
+Chicago,"Health Care",107500
+Chicago,"Accounting, Banking & Finance",105042.86
+Chicago,"Hospitality & Events",105000
+Chicago,"Government And Public Administration",102880
+Chicago,"Education (Primary/Secondary)",98000
+Chicago,"Engineering Or Manufacturing",92200
+Chicago,Retail,90000
+Chicago,Manufacturing,84000
+Chicago,Entertainment,81666.67
+Chicago,"Education (Higher Education)",77524.38
+Chicago,"Transport Or Logistics",77000
+Chicago,Nonprofits,75557.89
+Chicago,"Marketing, Advertising & Pr",72111.11
+Chicago,"Gaming (Gambling)",72000
+Chicago,"Association Management",68000
+Chicago,"Leisure, Sport & Tourism",67500
+Chicago,"Art & Design",66500
+Chicago,"Utilities & Telecommunications",65000
+Chicago,"Social Work",55000
+Chicago,"Academic Medicine ",55000
+Chicago,"Auction Hounited Statese",55000
+Chicago,"Media & Digital",51000
+Chicago,"Recruitment Or Hr",50000
+Chicago,Sales,45000
+Chicago,"Academic Press Production",42000
+"Chicago ","Transport Or Logistics",95100
+"Chicago ","Education (Primary/Secondary)",78000
+"Chicago ","Health Care",70000
+"Chicago ","Accounting, Banking & Finance",68000
+"Chicago ","Philanthropy ",66500
+"Chicago ","Education (Higher Education)",45000
+"Chicago ",Retail,41288
+"Chicago (suburbs)","Health Care",95000
+Chicagoland,"Law Enforcement & Security",76500
+Chicagoland,"Government And Public Administration",73000
+"Chicagoland Area","Marketing, Advertising & Pr",52000
+Chico,Retail,39520
+Chilliwack,"Marketing, Advertising & Pr",83000
+Chilliwack,"Law Enforcement & Security",75000
+Chomutov,Retail,233160
+Christchurch,Nonprofits,58500
+Cincinnati,"Consumer Research",97000
+Cincinnati,"Accounting, Banking & Finance",88000
+Cincinnati,"Engineering Or Manufacturing",84000
+Cincinnati,"Computing Or Tech",71400
+Cincinnati,"Hospitality & Events",62000
+cincinnati,"Education (Higher Education)",53125
+Cincinnati,"Recruitment Or Hr",49900
+Clawson,Sales,34320
+Cleveland,Sales,192000
+Cleveland,"Recruitment Or Hr",155000
+Cleveland,"Marketing, Advertising & Pr",85000
+Cleveland,"Engineering Or Manufacturing",80000
+Cleveland,"Environment, Health, And Safety",70000
+Cleveland,"Accounting, Banking & Finance",61800
+Cleveland,Nonprofits,51000
+Cleveland,"Education (Primary/Secondary)",50000
+Cleveland,"Education (Higher Education)",30500
+"Cleveland ","Food & Beverages",55000
+"Cleveland ","Education (Higher Education)",53000
+"Clinton Township","Computing Or Tech",46170
+cody,"Accounting, Banking & Finance",55120
+"College Park","Education (Higher Education)",105000
+"College Park","Government And Public Administration",98553
+"Colorado Springs",Automotive,80000
+"Colorado Springs","Computing Or Tech",75000
+"Colorado Springs ","Engineering Or Manufacturing",98000
+Columbia,"Hospitality & Events",93000
+Columbia,"Marketing, Advertising & Pr",82000
+Columbia,"Recruitment Or Hr",80000
+Columbia,"Government And Public Administration",78500
+Columbia,"Education (Higher Education)",60035
+Columbia,"Property Or Construction",31500
+Columbia,"Accounting, Banking & Finance",12000
+"Columbia, SC","Computing Or Tech",40000
+"ColumbUnited States",Technology/Saas,87500
+"ColumbUnited States","Government And Public Administration",83000
+"ColumbUnited States",Nonprofits,50725
+"ColumbUnited States","Recruitment Or Hr",50000
+"ColumbUnited States",Law,50000
+"ColumbUnited States","Art & Design",48000
+"ColumbUnited States","Education (Higher Education)",44000
+"ColumbUnited States","It Security",43680
+"ColumbUnited States ",Law,120250
+Conway,"Computing Or Tech",71000
+Copenhagen,"Education (Higher Education)",550000
+copenhagen,Law,550000
+Copenhagen,"Marketing, Advertising & Pr",120000
+Copenhagen,"Computing Or Tech",103000
+"Coral Springs",Law,38000
+Cork,"Accounting, Banking & Finance",33700
+Corning,"Bunited Statesiness Or Consulting",55000
+"Corona Del Mar","Health Care",65000
+"CorpUnited States Christi","Government And Public Administration",39000
+"CorpUnited States Christi ","Government And Public Administration",52000
+Corvallis,"Health Care",72800
+Corvallis,"Education (Higher Education)",51000
+"Coventry ","Accounting, Banking & Finance",19500
+"Coventry UK","Computing Or Tech",31200
+"Crown Point","Health Care",65000
+"Cupertino, CA","Computing Or Tech",133000
+D.C.,Nonprofits,60000
+Dallas,"Strategy Consulting",195000
+Dallas,Sales,140000
+Dallas,"Accounting, Banking & Finance",110000
+Dallas,"Computing Or Tech",106333.33
+Dallas,"Marketing, Advertising & Pr",103666.67
+Dallas,"Engineering Or Manufacturing",95000
+Dallas,"Transport Or Logistics",91000
+Dallas,Insurance,79000
+Dallas,"Health Care",76000
+Dallas,Nonprofits,73000
+Dallas,"Media & Digital",65205
+Dallas,"Supply Chain Distribution ",61800
+Dallas,"Education (Primary/Secondary)",58500
+Dallas,"Education (Higher Education)",52000
+"Dallas ",Law,44000
+"Dana Point","Education (Primary/Secondary)",43700
+Danbury,"Health Care",87500
+Darmstadt,"Utilities & Telecommunications",90000
+Dayton,"Government And Public Administration",100500
+Dayton,"Engineering Or Manufacturing",98000
+Dayton,"Health Care",72800
+Dayton,"Education (Higher Education)",53923
+Dayton,Nonprofits,42000
+DC,"Computing Or Tech",183000
+DC,"Government And Public Administration",120000
+DC,Law,104250
+DC,"Bunited Statesiness Or Consulting",102933.33
+DC,Nonprofits,78333.33
+"DC metro area, mostly DC and Montgomery County MD","Social Work",53000
+Dearborn,"Engineering Or Manufacturing",90000
+"Dearborn Heights","Education (Primary/Secondary)",59500
+Decline,"Computing Or Tech",135000
+"Declined ",Retail,34320
+"Deerfield Beach","Transport Or Logistics",37400
+Delft,Academia,56400
+Denton,"Art & Design",175000
+Denver,"Computing Or Tech",113384.62
+Denver,"Health Care",112600
+Denver,"Bunited Statesiness Or Consulting",103333.33
+Denver,"Utilities & Telecommunications",100000
+Denver,"Marketing, Advertising & Pr",94000
+Denver,"Education (Higher Education)",74666.67
+Denver,"Real Estate Investment",73000
+Denver,"Accounting, Banking & Finance",72300
+Denver,"Recruitment Or Hr",71500
+Denver,Insurance,70000
+Denver,"Government And Public Administration",68900
+Denver,"Education (Primary/Secondary)",58000
+Denver,Nonprofits,53166.67
+Denver,"Media & Digital",52500
+Denver,"Academic Science",37000
+Denver,"Art & Design",36500
+Denver,"Data Entry",31000
+"Denver ",Nonprofits,64480
+"Denver ","Health Care",30000
+"Des Moines","Accounting, Banking & Finance",200000
+"Des Moines","Government And Public Administration",103000
+"Des Moines","Manufacturing ",88000
+"Des Moines ","Accounting, Banking & Finance",74000
+"Des Moines ","Health Care",55000
+"Des Moines ","Recruitment Or Hr",52000
+"Des Moines metro","Property Or Construction",35880
+Detroit,"Art & Design",240000
+Detroit,"Accounting, Banking & Finance",126500
+Detroit,"Computing Or Tech",90779
+Detroit,"Engineering Or Manufacturing",86000
+Detroit,Law,70000
+Detroit,Nonprofits,68000
+Detroit,"Education (Higher Education)",55000
+Detroit,Insurance,42000
+Detroit,"Transport Or Logistics",40000
+"Detroit, MI","Marketing, Advertising & Pr",70000
+Devon,"Real Estate Title Company",47445
+DFW,"Recruitment Or Hr",61500
+"DFW area","Government And Public Administration",49600
+"District of columbia","Computing Or Tech",102000
+"District of Columbia","Government And Public Administration",60000
+"District of Columbia ","Education (Higher Education)",70850
+Draper,Mortgage,42000
+"Dripping Springs","Agriculture Or Forestry",55000
+Dubai,"Property Or Construction",98000
+Dublin,"Computing Or Tech",75206.67
+Dublin,"Contract Research Organisation",60121
+Dublin,"Government And Public Administration",50000
+Dublin,Nonprofits,47000
+Dublin,Pharmaceuticals,39750
+Dublin,"Accounting, Banking & Finance",35000
+Dublin,"Education (Higher Education)",31000
+"Dublin ","Computing Or Tech",106000
+"Dubuque ",Insurance,57630
+Dulles,"Transport Or Logistics",38000
+Dundee,"Computing Or Tech",60000
+Durango,"Health Care",52000
+Durham,Insurance,128000
+Durham,"Government And Public Administration",108518
+Durham,"Accounting, Banking & Finance",99500
+Durham,Nonprofits,64500
+Durham,"Education (Higher Education)",57666.67
+Durham,"Academic Publishing",55500
+Durham,"Marketing, Advertising & Pr",55000
+Durham,"Computing Or Tech",51666.67
+Durham,"Graduate Assistant And Also Events ",24000
+"Durham, NC","Health Care",135000
+Duxford,"Engineering Or Manufacturing",92000
+Eagan,"Accounting, Banking & Finance",48000
+Eagan,"Health Care",45000
+Eagle,"Education (Primary/Secondary)",50000
+"East Bay area","Accounting, Banking & Finance",90000
+"East Lansing","Education (Higher Education)",70000
+"East Lansing","Computing Or Tech",52500
+"East Stroudsburg","Engineering Or Manufacturing",65000
+"East Windsor","Property Or Construction",58240
+"Eastern WI City; approx. pop 50,000","Government And Public Administration",52000
+Easthampton,"Marketing, Advertising & Pr",65000
+"Eatontown, NJ","Medical Supply Wholesale & Warehounited Statesing",33000
+"Eden Prairie","Education (Primary/Secondary)",63500
+"Eden Prairie","Engineering Or Manufacturing",55000
+"Edgartown ma","Hospitality & Events",58000
+Edina,"Property Or Construction",61800
+Edinburgh,"Accounting, Banking & Finance",53000
+Edinburgh,"Bunited Statesiness Or Consulting",52000
+Edinburgh,"Transport Or Logistics",50000
+Edinburgh,"Government And Public Administration",40000
+Edinburgh,"Media & Digital",39000
+Edinburgh,"Education (Higher Education)",38000
+Edinburgh,"Computing Or Tech",34000
+Edinburgh,Nonprofits,25878.5
+Edinburgh,Retail,20000
+"Edinburgh ","Public Health",35000
+Edmonds,"Education (Primary/Secondary)",91243
+Edmonton,"Property Or Construction",92000
+Edmonton,"Government And Public Administration",47300
+Edmonton,"Subsidized Seniors Hounited Statesing",45000
+Edson,"Hospitality & Events",30000
+Effingham,"Government And Public Administration",41000
+"Egg Harbor Township ",Retail,37500
+Eindhoven,"Computing Or Tech",63000
+"El Paso","Property Or Construction",154000
+"El Paso",Nonprofits,36000
+"El Paso","Accounting, Banking & Finance",35000
+Elkridge,"Accounting, Banking & Finance",31400
+Elkton,"Transport Or Logistics",69000
+"Elkton, VA","Bunited Statesiness Or Consulting",42000
+Emeryville,"Computing Or Tech",75000
+Enfield,"Health Care",33150
+Englewood,"Education (Primary/Secondary)",65000
+Erie,"Recruitment Or Hr",66000
+Erie,"Education (Higher Education)",50000
+erie,"Hospitality & Events",37440
+Escanaba,"Property Or Construction",62400
+"Escondido ","Computing Or Tech",50000
+Ethel,"Education (Primary/Secondary)",38600
+Eufaula,Unknown,26000
+Eugene,"Engineering Or Manufacturing",70000
+Eugene,Nonprofits,38480
+Eureka,"Government And Public Administration",56500
+Evanston,Nonprofits,48000
+Everett,"Government And Public Administration",72000
+Everett,"Engineering Or Manufacturing",72000
+Exeter,"Government And Public Administration",32000
+"Exeter ",Retail,34500
+Fairbanks,"Engineering Or Manufacturing",88000
+Fairbanks,"Social Work",67600
+Fairbanks,"Education (Higher Education)",57000
+Fairfax,"Art & Design",115000
+Fairfax,"Computing Or Tech",85000
+"Fairfax ","Hospitality & Events",65000
+"Fairfax (but now permanently virtual)","Utilities & Telecommunications",96000
+"Fairfax County","Health Care",40000
+"Falls Church","Health Care",235000
+"Falls Church, VA",Nonprofits,58000
+Fargo,Retail,81000
+Fargo,"Government And Public Administration",56080
+Fargo,"Health Care",29120
+Faribault,"Engineering Or Manufacturing",90000
+"Fayetteville ","Health Care",65000
+Fishers,"Accounting, Banking & Finance",60156
+Flagstaff,"Education (Higher Education)",56000
+Florence,"Engineering Or Manufacturing",35000
+"Fort bragg","Government And Public Administration",78000
+"Fort Collins","Health Care",60200
+"Fort Collins",Retail,28000
+"Fort Myers",Retail,60000
+"Fort Washington",Insurance,39000
+"Fort Worth","Media & Digital",88000
+"Fort Worth","Utilities & Telecommunications",41000
+"Fox Valley","Engineering Or Manufacturing",64000
+"Frankfurt a.M.","Computing Or Tech",72000
+"Frankfurt am Main",Nonprofits,40000
+Franklin,Insurance,40000
+Frederick,"Government And Public Administration",106000
+Frederick,"Computing Or Tech",100000
+Fredericton,"Government And Public Administration",68500
+"Fredonia ","Hospitality & Events",42300
+Freeport,"Agriculture Or Forestry",55000
+Fremont,"Hospitality & Events",65500
+Frisco,"Marketing, Advertising & Pr",90000
+Frisco,"Computing Or Tech",50000
+"From home for a chicago based company","Media & Digital",42000
+"Ft lauderdale","Art & Design",85000
+"Ft Myers","Leisure, Sport & Tourism",92000
+"Full remote position","Computing Or Tech",235000
+"Fully Remote","Accounting, Banking & Finance",72000
+Gainesville,"Bunited Statesiness Or Consulting",70000
+Gainesville,"Education (Higher Education)",43350.5
+"Gaitherburg ","Marketing, Advertising & Pr",62700
+Gaithersburg,"Bunited Statesiness Or Consulting",80000
+Gaithersburg,"Marketing, Advertising & Pr",71666.67
+Gaithersburg,Nonprofits,49500
+Galveston,"Computing Or Tech",50000
+Galway,Entertainment,36
+"Garnet Valley","Agriculture Or Forestry",52000
+"Geismar ","Oil & Gas",66500
+"Georgetown ","Engineering Or Manufacturing",60000
+Glasgow,"Education (Higher Education)",39017
+Glasgow,"Hospitality & Events",31538
+Glasgow,Retail,25000
+Glasgow,"Government And Public Administration",25000
+Glasgow,"Accounting, Banking & Finance",25000
+Glasgow,"Science ",20152
+"Glasgow ","Health Care",32500
+"Gloucester ","Social Work",60000
+"Gloversville, NY","Social Work",33280
+Golden,"Engineering Or Manufacturing",76997
+Golden,"Marketing, Advertising & Pr",35000
+Goma,Nonprofits,84000
+Gorham/Portland,"Education (Higher Education)",34299
+Gothenburg,"Computing Or Tech",438000
+"Grand Rapids",Law,74000
+"Grand Rapids","Recruitment Or Hr",66189
+"Grand Rapids","Bunited Statesiness Or Consulting",33280
+"Grand Rapids ","Accounting, Banking & Finance",69500
+"Grand Rapids, MI",Nonprofits,62000
+Grants,"Utilities & Telecommunications",130000
+"Greater Boston area","Government And Public Administration",70000
+"Greater New Orleans Metro Region","Property Or Construction",101000
+"Greater Sacramento","Recruitment Or Hr",65000
+Greensboro,"Transport Or Logistics",68000
+Greensboro,"Recruitment Or Hr",48000
+Greensboro,"Marketing, Advertising & Pr",42000
+Greensboro,"Health Care",34500
+Greensboro,"Government And Public Administration",34112
+"Greensboro ",E-Commerce,45000
+"Greensboro ","Government And Public Administration",43591
+Greenville,"Accounting, Banking & Finance",60000
+Greenville,"Health Care",57000
+"Greenville ","Accounting, Banking & Finance",88000
+"Greenville ","Bunited Statesiness Or Consulting",0
+Greenwood,"Public Library",36067
+Groton,"Engineering Or Manufacturing",94000
+"Grove City (100% remote)","Media & Digital",91000
+Guelph,"Agriculture Or Forestry",82000
+Guelph,Sales,30000
+Guildford,"Education (Higher Education)",33000
+Hagerstown,"Art & Design",50000
+"Haikou Hainan","Education (Primary/Secondary)",250000
+Halesowen,"Computing Or Tech",40000
+Halifax,"Computing Or Tech",90000
+Halifax,"Recruitment Or Hr",73320
+Halifax,Nonprofits,52000
+Halifax,"Education (Higher Education)",51500
+Halifax,Law,50000
+Halifax,"Social Work",48000
+Halifax,"Bunited Statesiness Or Consulting",45700
+Hamburg,Entertainment,50000
+Hammond,"Education (Primary/Secondary)",42000
+Hampton,"Education (Primary/Secondary)",48000
+Hampton,Nonprofits,27000
+Hannibal,"Transport Or Logistics",38771
+Hanover,"Education (Higher Education)",62000
+"Harlingen, TX (Remote Work)","Computing Or Tech",60000
+Harrisburg,"Bunited Statesiness Or Consulting",85000
+Harrisburg,"Computing Or Tech",79000
+Harrisburg,"Government And Public Administration",63000
+Harrison,"Transport Or Logistics",58000
+"Harrisonburg, VA","Education (Higher Education)",34000
+hartford,"Education (Higher Education)",138000
+Hartford,"Media & Digital",115000
+Hartford,"Computing Or Tech",96900
+Hartford,"Health Care",87000
+Hartford,Insurance,86000
+Hartford,Law,61000
+Hartford,Nonprofits,48000
+Hartford,"Art & Design",45000
+"Hartford ",Insurance,155000
+hazlet,"Health Care",37400
+Helena,Nonprofits,51400
+Helena,"Law Enforcement & Security",34944
+Helena,"Education (Primary/Secondary)",32000
+Helsinki,"Computing Or Tech",64000
+Helsinki,"Government And Public Adminisraeltration",40000
+Henderson,Manufacturing,78000
+Henderson,"Health Care",68000
+Herndon,"Computing Or Tech",85000
+Herndon,"Bunited Statesiness Or Consulting",63000
+Hersey,"Social Work",28000
+Hillsboro,"Engineering Or Manufacturing",108306
+Hiroshima,"Education (Higher Education)",6000000
+"Hong Kong ","Marketing, Advertising & Pr",102028
+Honolulu,"Education (Primary/Secondary)",80000
+"HoUnited Stateston",Insurance,140000
+"HoUnited Stateston","Clinical Research",126000
+"HoUnited Stateston","Computing Or Tech",107500
+"HoUnited Stateston",Energy,107000
+"HoUnited Stateston","Bunited Statesiness Or Consulting",105300
+"HoUnited Stateston","Recruitment Or Hr",95220
+"HoUnited Stateston","Accounting, Banking & Finance",81100
+"HoUnited Stateston",Sales,72500
+"HoUnited Stateston","Education (Higher Education)",59500
+"HoUnited Stateston","Education (Primary/Secondary)",58000
+"HoUnited Stateston",Nonprofits,50076
+"HoUnited Stateston","Transport Or Logistics",49000
+"HoUnited Stateston",Law,30000
+"HoUnited Stateston","Hospitality & Events",29120
+"HoUnited Stateston TX","Health Care",65000
+Howell,Insurance,46000
+"Hoyt Lakes","Government And Public Administration",95000
+"Huntington Station ","Engineering Or Manufacturing",58000
+Huntsville,Entertainment,3600000
+Huntsville,"Engineering Or Manufacturing",97500
+Huntsville,"Media & Digital",90000
+Huntsville,"Federal Contracting/Bunited Statesiness Development",70000
+Huntsville,"Transport Or Logistics",70000
+Huntsville,"Accounting, Banking & Finance",40000
+"Huntsville ","Government And Public Administration",29998
+"Huntsville but company is in Eufaula","Education (Primary/Secondary)",44200
+Hyannis,"Accounting, Banking & Finance",35000
+Hyattsville,Law,60593
+"I WFH full time for a remote organization (pre-pandemic)","Marketing, Advertising & Pr",92000
+"I work remotely with clients across the country","Accounting, Banking & Finance",65000
+"I'm sorry, I'd rather not say. But Alberta in Canada.","Government And Public Administration",74000
+Indianapolis,Pharma,122000
+Indianapolis,Unknown,115000
+Indianapolis,"Health Care",84000
+Indianapolis,Law,80000
+Indianapolis,"Hospitality & Events",66950
+Indianapolis,"Education (Higher Education)",55000
+Indianapolis,Nonprofits,51633.33
+Indianapolis,"Munited Stateseums",49000
+Indianapolis,"Government And Public Administration",45900
+"Indianapolis ","Computing Or Tech",99400
+"Indianapolis ","Accounting, Banking & Finance",77000
+"Indianapolis ","Health Care",72000
+"Indianapolis ",Insurance,67600
+"Indianapolis ","Property Or Construction",50000
+"Indianapolis ",Retail,47000
+"Indianapolis ","Marketing, Advertising & Pr",43680
+Inwood,"Wholesale Trade",50000
+"Iowa City","Education (Higher Education)",67000
+"Iowa City","Social Work",51000
+"Iowa City",Nonprofits,29700
+Irvine,"Recruitment Or Hr",106600
+Irvine,"Computing Or Tech",102500
+Irvine,"Engineering Or Manufacturing",75000
+Irvine,Nonprofits,67000
+Irvine,Law,37200
+Irving,Energy/Oil,62000
+Irving,"Warehounited Statese- Food And Beverage ",47500
+Islip,"Engineering Or Manufacturing",68000
+Itasca,"Computing Or Tech",132000
+Itasca,"Transport Or Logistics",47000
+Ithaca,Nonprofits,72000
+Ithaca,"Education (Higher Education)",53500
+Jackson,"Engineering Or Manufacturing",98000
+Jackson,"Health Care",36500
+"Jackson Center ","Engineering Or Manufacturing",60000
+Jacksonville,"Art & Design",32240
+Jamestown,"Engineering Or Manufacturing",52000
+Jamestown,Nonprofits,32000
+"Jefferson City","Computing Or Tech",110000
+Jeffersonville,"Health Care",17000
+"Jeffersonville ","Health Care",67000
+Jenkintown,"Recruitment Or Hr",44720
+"Jersey City","Computing Or Tech",133000
+"Jersey City ","Transport Or Logistics",42000
+"Johns Creek",Unknown,49000
+"Johnson City",Librarian,45700
+Joliet,"Transport Or Logistics",56000
+Jonesboro,"Education (Higher Education)",55000
+Juneau,Nonprofits,72000
+Kalamazoo,"My Company Sells & Services Variounited States Types Of Printers, Mostly Kyocera.",35000
+"Kansas City","Engineering Or Manufacturing",70000
+"Kansas City","Computing Or Tech",65000
+"Kansas City","Real Estate Investment Support",63000
+"Kansas City","Art & Design",56000
+"Kansas City",Law,55000
+"Kansas City ","Health Care",67250
+Kelowna,Retail,58000
+Kennesaw,"Education (Higher Education)",40768
+"Kent ",E-Commerce,68000
+"Key West",Aviation,28700
+"Kilkenny ",Nonprofits,33500
+Kingsport,"Hospitality & Events",36088
+Kiruna,Retail,350000
+Kitchener,"Public Library",59000
+Kitchener,"Accounting, Banking & Finance",54000
+Kitchener,"Education (Higher Education)",50200
+Kitchener,"Costruction Admin",38000
+Kitchener,"Health Care",33280
+"Kitchener Waterloo ","Computing Or Tech",75000
+"Kitchener, ON","Computing Or Tech",120000
+Knoxville,"Recruitment Or Hr",73500
+Knoxville,"Marketing, Advertising & Pr",52000
+Knoxville,"Education (Higher Education)",50541.5
+Knoxville,"Government And Public Administration",48000
+Knoxville,Retail,42500
+"Knoxville ",Sales,75000
+Kraków,"Marketing, Advertising & Pr",72000
+"La Crosse",Unknown,55000
+"La Grande","Engineering Or Manufacturing",72000
+"La Quinta","Government And Public Administration",31000
+"La Vergne","Engineering Or Manufacturing",50000
+Lafayette,"Accounting, Banking & Finance",76000
+Lafayette,Retail,21000
+"Lafayette ",Insurance,42000
+"Lake Buena Vista",Retail,32240
+"Lake Forest","Computing Or Tech",108000
+"Lake Mary","Leisure, Sport & Tourism",51200
+"Lake Orion",Insurance,228800
+Lancashire,"Agriculture Or Forestry",19200
+Lancaster,"Bunited Statesiness Or Consulting",85000
+Lancaster,"Engineering Or Manufacturing",36000
+Lansing,"Government And Public Administration",73000
+Lansing,"Education (Higher Education)",56750
+"Lansing ","Hospitality & Events",56000
+"Las Vegas","Art & Design",85000
+"Las Vegas","Computing Or Tech",70500
+"Las Vegas","Recruitment Or Hr",70000
+"Las Vegas",Nonprofits,53000
+Laurel,"Computing Or Tech",150000
+Lawrence,Nonprofits,33000
+Leawood,"Marketing, Advertising & Pr",70000
+"Lee's Summit ","Media & Digital",48000
+Leeds,Retail,38000
+Leeds,Law,26000
+leeds,"Accounting, Banking & Finance",26000
+Leeds,"Education (Higher Education)",26000
+Leeds,"Health Care",21500
+Lehi,"Computing Or Tech",53135.5
+"Lehigh Valley","Engineering Or Manufacturing",105000
+"Lehigh Valley","Transport Or Logistics",47840
+Leicester,Law,22800
+Lethbridge,"Health Care",40000
+Lewiston,Nonprofits,35000
+Lexington,"Bunited Statesiness Or Consulting",94000
+Lexington,"Computing Or Tech",62000
+Lexington,"Education (Higher Education)",50500
+Lexington,Insurance,46000
+Lexington,"Health Care",44096
+"Lexington Park",Nonprofits,0
+Liberty,"Health Care",66650
+"Lincoln ","Health Care",94500
+Linden,Law,33200
+Lisle,Law,130000
+Liverpool,"Marketing, Advertising & Pr",30000
+"Liverpool ","Education (Higher Education)",35000
+Lockport,Sales,24000
+Lodi,"Funeral Service ",33280
+London,Insurance,108000
+London,"Education (Primary/Secondary)",82000
+London,"Computing Or Tech",73648.21
+London,"Engineering Or Manufacturing",67816.67
+London,"Food Production",65000
+London,"Accounting, Banking & Finance",61500
+London,"Utilities & Telecommunications",60000
+London,"Property Or Construction",58000
+London,"Hospitality & Events",54250
+London,"Government And Public Administration",51525
+London,"Education (Higher Education)",50430.5
+London,"Bunited Statesiness Or Consulting",45500
+London,"Marketing, Advertising & Pr",43500
+London,"Recruitment Or Hr",42333.33
+London,"Social Work",41607
+London,Biologist,37000
+London,Nonprofits,36399.5
+London,Sales,36000
+London,Conservation,36000
+London,"Media & Digital",35400
+london,"Art & Design",25000
+London,"Health Care",23500
+"London ","Computing Or Tech",71000
+"London ",Nonprofits,46000
+"London, UK",Nonprofits,35000
+"Long Beach","Engineering Or Manufacturing",102000
+"Long Island",Library/Archives,62400
+"Long Island",Insurance,55300
+"Los Alamos","Government And Public Administration",118392
+"Los Angeles",Law,190375
+"Los Angeles","Health Care",149500
+"Los Angeles","Computing Or Tech",114119.11
+"Los Angeles","Transport Or Logistics",112320
+"Los Angeles","Government And Public Administration",111833.33
+"Los Angeles",Entertainment,105110
+"Los Angeles","Marketing, Advertising & Pr",95500
+"Los Angeles","Bunited Statesiness Or Consulting",91800
+"Los Angeles","Engineering Or Manufacturing",85000
+"Los Angeles","Accounting, Banking & Finance",83000
+"Los Angeles","Media & Digital",80000
+"Los Angeles",Insurance,75000
+"Los Angeles",Retail,75000
+"Los Angeles",Nonprofits,68800
+"Los Angeles","Art & Design",66500
+"Los Angeles","Clinical Research ",58500
+"Los Angeles","Education (Higher Education)",54800
+"Los Angeles","Law Enforcement & Security",48000
+"Los Angeles ","Beauty /Cpg ",131000
+"Los Angeles ","Marketing, Advertising & Pr",120000
+"Los Angeles ",Nonprofits,80000
+"Los Angeles ","Computing Or Tech",75000
+"Los Angeles ","Utilities & Telecommunications",66560
+"Los Angeles ",Entertainment,54000
+"Los Angeles ",Sales,16000
+"Los Angeles County","Computing Or Tech",123000
+Louisville,"Accounting, Banking & Finance",77500
+Louisville,"Utilities & Telecommunications",69000
+Louisville,"Hospitality & Events",67000
+Louisville,"Health Care",64107.5
+Louisville,"Education (Higher Education)",51900
+Louisville,"Media & Digital",50000
+"Louisville ","Marketing, Advertising & Pr",36500
+"Louisville, KY","Recruitment Or Hr",60500
+Loveland,"Agriculture Or Forestry",85000
+Lowell,"Computing Or Tech",103500
+Lowell,"Education (Higher Education)",77500
+lowell,"Transport Or Logistics",68000
+"Lower Hutt, Wellington","Health Care",65000
+"Lutherville ","Health Care",50000
+Lynnwood,"Engineering Or Manufacturing",89401
+Madison,"Computing Or Tech",431400
